@@ -1,3 +1,7 @@
+/**
+ * Input contains dulicates,and output has multiple pairs
+ *
+**/
 import java.util.List;
 import java.util.ArrayList;
 import java.util.HashMap;
